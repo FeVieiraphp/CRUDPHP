@@ -1,0 +1,29 @@
+body {
+	min-height: 100%;
+	background-image: url('https://unsplash.it/g/1500/800?random');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+form {
+	margin-top: 100vh;
+	padding: 30px 20px;
+	background-color: rgba(0, 0, 0, .9);
+	color: #FFF;
+
+	transform: translateY(-50%);
+}
+
+.text-center h2  {
+	
+	margin: 0 0 30px;
+	font-size: 1em;
+
+}
+
+.erro {
+	color: red !important;
+	font-weight: 100px; 
+}
